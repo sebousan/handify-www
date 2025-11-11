@@ -1,1 +1,6 @@
 _merge: deep
+
+brand:
+  name: Handify
+  # email: handify@uncinq.dev
+  url: handify.io

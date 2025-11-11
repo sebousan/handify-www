@@ -1,9 +1,7 @@
 imports:
   # Content
-  # -> Hugolify content types and taxonomies available https://www.hugolify.io/docs/sections/
+  - path: github.com/sebousan/hugolify-content-uncinqify
+  - path: github.com/sebousan/hugolify-theme-uncinqify
 
   # Core theme
   - path: github.com/hugolify/hugolify-theme
-
-  # CMS
-  - path: github.com/hugolify/hugolify-admin

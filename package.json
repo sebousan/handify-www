@@ -1,10 +1,10 @@
 {
-  "name": "hugolify-template",
-  "version": "1.16.0",
-  "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "name": "handify-www",
+  "version": "0.0.0",
+  "homepage": "https://www.handify.io",
+  "repository": "https://github.com/sebousan/handify-www",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/sebousan/handify-www/issues"
   },
   "author": {
     "email": "sebousan@gmail.com",
