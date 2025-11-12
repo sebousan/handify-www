@@ -51,7 +51,7 @@ blocks:
     column: 2
     heading:
       surtitle: Pour qui ?
-      title: Pour tous les artisans et métiers du bâtiment.
+      title: Pour tous les artisans et professionnels du bâtiment.
     items:
       - surtitle: Gros œuvre
         title: Ceux qui bâtissent le squelette du bâtiment.
