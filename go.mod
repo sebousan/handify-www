@@ -2,6 +2,10 @@ module github.com/sebousan/handify-www
 
 go 1.21
 
+// replace (
+// 	github.com/sebousan/hugolify-content-uncinqify => ../hugolify-content-uncinqify
+// )
+
 require (
 	github.com/Splidejs/splide v4.1.3+incompatible // indirect
 	github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03 // indirect
@@ -10,7 +14,7 @@ require (
 	github.com/hugolify/hugolify-theme v1.26.15 // indirect
 	github.com/midzer/tobii v3.0.0+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
-	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251111114334-d81d726a08cd // indirect
+	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251112103349-fb5bf3967668 // indirect
 	github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20251001100011-79df0961e35e // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
