@@ -16,6 +16,7 @@ github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251112140749-1d5c40554a9
 github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251112140749-1d5c40554a91/go.mod h1:YUYhIdRN11KsFLRPxZJifhXS34O7gqfhkVPK6ZBkw08=
 github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20251112140601-506498c375ea h1:sAGdX9ZjdpyVl3NmFrQwNmFN+HEAaLtPhzjcw8k6WCM=
 github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20251112140601-506498c375ea/go.mod h1:qB0HiaLtrnRIzzHYL/M64jxKLjfod06wIGOGGrnkMZ0=
+github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.8+incompatible h1:eK1fsXP7R/FWFt+sSNmmvUH9usPocf240nWVw7Dh02o=
 github.com/twbs/bootstrap v5.3.8+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.13.1 h1:6bmNXvoeIbvjFWjfbjXg5JGbelLD1haIsMaEIzE9UZI=

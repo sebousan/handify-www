@@ -48,9 +48,10 @@ blocks:
 
   - type: informations
     background: true
+    column: 2
     heading:
       surtitle: Pour qui ?
-      title: Pour tous les artisans et métiers du bâtiment
+      title: Pour tous les artisans et métiers du bâtiment.
     items:
       - surtitle: Gros œuvre
         title: Ceux qui bâtissent le squelette du bâtiment.
@@ -89,7 +90,7 @@ blocks:
       src: https://res.cloudinary.com/uncinq/image/upload/v1758116479/147.Multitasking_wqtjvy.svg
 
   - type: figure
-    background: false
+    background: true
     grid: medium
     offset: center
     heading:
