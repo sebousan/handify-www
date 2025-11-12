@@ -10,7 +10,7 @@ require (
 	github.com/hugolify/hugolify-theme v1.26.17 // indirect
 	github.com/midzer/tobii v3.0.0+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
-	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251112140749-1d5c40554a91 // indirect
+	github.com/sebousan/hugolify-content-uncinqify v0.0.0-20251112143531-4117e0a97948 // indirect
 	github.com/sebousan/hugolify-theme-uncinqify v0.0.0-20251112140601-506498c375ea // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
