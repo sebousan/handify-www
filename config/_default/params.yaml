@@ -1,5 +1,17 @@
 _merge: deep
 
+# Image
+image:
+  retina:
+    desktop: true
+
+# Javascript
+carousel: false
+bootstrap:
+  modal: false
+map: false
+
+# Brand
 brand:
   name: Handify
   # email: handify@uncinq.dev
